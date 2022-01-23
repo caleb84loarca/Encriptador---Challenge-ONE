@@ -1,0 +1,63 @@
+  
+       
+       div{
+            align-content: center;
+            
+        }
+        
+        form{
+            align-items: center;
+            padding: 10px;
+
+        }
+
+        body{
+            font-size: 62,5%;
+            background-color: chocolate;
+        }
+
+        .container { 
+            text-align: center; 
+            width: 700px; 
+            margin-left: auto;
+            margin-right: auto; 
+            display: flex;
+            justify-content: center;
+        
+        }
+
+        h1{ 
+            text-align: center;
+        }
+
+        button{
+            padding: 20px;
+            color: black;
+            background-color: rgb(13, 133, 123);
+            font-size: 15px;
+            font-style: inherit;            
+            text-align: center;
+            border-radius: 12px;
+			box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        }
+
+       
+        p{
+            font-size: 20pt;
+            text-align: center;
+        }
+
+        input{
+            padding: 5px 5px;
+            text-indent: 0px;
+            text-align: left;
+            font: 1.5em sans-serif;
+            height: 80px;
+            width: 800px;
+            align-content: center;
+            
+        }
+        
+        
+
+
